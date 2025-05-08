@@ -19,8 +19,12 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1js6aJmwcObUDtUfXVSQULHk4iOpbR5nSmdBIJMI2D6w/edit?usp=sharing) 
 |            | | [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb), [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
 | **Sem 6** | Kernels, Evaluation metrics | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/kernels_svm.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb)
-| **Sem 7**  | Linear Regression | [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb)
-|   | Bayesian Ridge Regression | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb)
+| **Sem 7**  | Regression | [Slides](https://docs.google.com/presentation/d/1-gcPCbCaaiiEAzQB3rnUBEFy8SOCjIJmZu8gb50-pQQ/edit?usp=sharing)
+|   | Linear Regression | [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb)
+| **Sem 8** | Bayesian Ridge Regression | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Bayesian_Ridge.ipynb)
+|           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb)
+
+
 <!-- | **Sem 6** | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1XphOGfcw0bueFupyQtosTo5LL90sZ0dkJA32r4JiIYg/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_4.ipynb)
 | **Sem 7**  | Paradigma Supervisado | [Link](https://docs.google.com/presentation/d/1I4cHCa8T4lMJbxHHbIRzySzkS2A_rfDb8gpnQ2oMoZE), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb)
 | **Sem 8**  | Clasificación y regresión | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
