@@ -23,6 +23,11 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |   | Linear Regression | [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb)
 | **Sem 8** | Bayesian Ridge Regression | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Bayesian_Ridge.ipynb)
 |           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb)
+|           | Supervised Lab | [Link](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/Supervised_Lab.ipynb)
+| **Sem 9** | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1hk5-9YLjPpvCBCq6pZxF_AvUgZwKH8TPDABAVZn8zxM/edit?usp=sharing)
+|           | $k$-means, selección $k$ | [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/k-means.ipynb), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/cluster_analysis.ipynb)
+| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/DBSCAN.ipynb)
+<!-- |           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb) -->
 
 
 <!-- | **Sem 6** | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1XphOGfcw0bueFupyQtosTo5LL90sZ0dkJA32r4JiIYg/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_4.ipynb)
