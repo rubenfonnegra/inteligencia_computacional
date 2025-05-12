@@ -26,7 +26,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |           | Supervised Lab | [Link](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/Supervised_Lab.ipynb)
 | **Sem 9** | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1hk5-9YLjPpvCBCq6pZxF_AvUgZwKH8TPDABAVZn8zxM/edit?usp=sharing)
 |           | $k$-means, selección $k$ | [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/k-means.ipynb), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/cluster_analysis.ipynb)
-| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/DBSCAN.ipynb)
+| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/DBSCAN.ipynb)
 <!-- |           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb) -->
 
 
