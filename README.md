@@ -13,7 +13,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |---|---|---|
 | **Sem 1**  | Introducción | [Acuerdo](https://docs.google.com/spreadsheets/d/1UTLIdm1r4sKRy5x8larDZFBJaP_4qfNM/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true)
 | **Sem 2**  | Paradigmas de aprendizaje | [Slides](https://docs.google.com/presentation/d/1B4wBGexKpvu-p86_NcTSuF2H3iwDRd9sfpbdgkO8Ge8/edit?usp=sharing), [Practicum 1](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_2/Practicum_1.ipynb) 
-| **Sem 3**  | Aprendizaje supervisado | [Slides](https://docs.google.com/presentation/d/1LXk-NZukENNsZK6zCxl61igACg7jgTttROvBJpxvzB0/edit?usp=sharing)
+<!-- | **Sem 3**  | Aprendizaje supervisado | [Slides](https://docs.google.com/presentation/d/1LXk-NZukENNsZK6zCxl61igACg7jgTttROvBJpxvzB0/edit?usp=sharing)
 |            | Log Regression, Naive bayes | [Practicum 2](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Logistic_Regression.ipynb), [Practicum 3](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Naive_Bayes.ipynb)
 | **Sem 4**  | Entrega 1
 | **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1js6aJmwcObUDtUfXVSQULHk4iOpbR5nSmdBIJMI2D6w/edit?usp=sharing) 
@@ -26,7 +26,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |           | Supervised Lab | [Link](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/Supervised_Lab.ipynb)
 | **Sem 9** | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1hk5-9YLjPpvCBCq6pZxF_AvUgZwKH8TPDABAVZn8zxM/edit?usp=sharing)
 |           | $k$-means, selección $k$ | [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/k-means.ipynb), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/cluster_analysis.ipynb)
-| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/DBSCAN.ipynb)
+| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/DBSCAN.ipynb) -->
 <!-- |           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb) -->
 
 
