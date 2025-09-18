@@ -16,8 +16,10 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 3**  | Aprendizaje supervisado | [Slides](https://docs.google.com/presentation/d/1LXk-NZukENNsZK6zCxl61igACg7jgTttROvBJpxvzB0/edit?usp=sharing)
 |            | Log Regression, Naive bayes | [Practicum 2](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Logistic_Regression.ipynb), [Practicum 3](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Naive_Bayes.ipynb)
 | **Sem 4**  | Entrega 1
-| **Sem 5**  | Decision Trees, SVM, Evaluation | [Slides](https://docs.google.com/presentation/d/1js6aJmwcObUDtUfXVSQULHk4iOpbR5nSmdBIJMI2D6w/edit?usp=sharing) 
+| **Sem 5**  | Decision Trees, SVM | [Slides](https://docs.google.com/presentation/d/1js6aJmwcObUDtUfXVSQULHk4iOpbR5nSmdBIJMI2D6w/edit?usp=sharing) 
 |            | | [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb), [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/Desicion_tree.ipynb) 
+| **Sem 6**  | Log Reg, Bayesian ridge | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
+|            | SVR, Evaluation | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Bayesian_Ridge.ipynb),  [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
 <!--| **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1js6aJmwcObUDtUfXVSQULHk4iOpbR5nSmdBIJMI2D6w/edit?usp=sharing) 
 |            | | [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb), [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
 | **Sem 6** | Kernels, Evaluation metrics | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/kernels_svm.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb)
