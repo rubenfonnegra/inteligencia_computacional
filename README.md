@@ -24,25 +24,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 8**  | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1g5_LB-SSEy4jqcGG3-uOE4f-SzI-9X5b7frZT0V8slw/edit?usp=sharing), [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Unsupervised_Lab.ipynb)
 | **Sem 9**  | Redes neuronales | [Slides](https://docs.google.com/presentation/d/1LnbOHXxPtPGU4QXjHUFagGSCopTtx4XY/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/MLP_keras.ipynb)
 | **Sem 10**  | ConvNets, RecNets | [Practicum 13](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/Conv_keras.ipynb), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/LSTM_keras.ipynb)
-<!--| **Sem 6** | Kernels, Evaluation metrics | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/kernels_svm.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb)
-| **Sem 7**  | Regression | [Slides](https://docs.google.com/presentation/d/1-gcPCbCaaiiEAzQB3rnUBEFy8SOCjIJmZu8gb50-pQQ/edit?usp=sharing)
-|   | Linear Regression | [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb)
-| **Sem 8** | Bayesian Ridge Regression | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Bayesian_Ridge.ipynb)
-|           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb)
-|           | Supervised Lab | [Link](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/Supervised_Lab.ipynb)
-| **Sem 9** | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1hk5-9YLjPpvCBCq6pZxF_AvUgZwKH8TPDABAVZn8zxM/edit?usp=sharing)
-|           | $k$-means, selección $k$ | [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/k-means.ipynb), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/cluster_analysis.ipynb)
-| **Sem 10** | DBSCAN | [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/DBSCAN.ipynb) -->
-<!-- |           | Support Vector Regression | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/SVR.ipynb) -->
-
-
-<!-- | **Sem 6** | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1XphOGfcw0bueFupyQtosTo5LL90sZ0dkJA32r4JiIYg/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_4.ipynb)
-| **Sem 7**  | Paradigma Supervisado | [Link](https://docs.google.com/presentation/d/1I4cHCa8T4lMJbxHHbIRzySzkS2A_rfDb8gpnQ2oMoZE), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb)
-| **Sem 8**  | Clasificación y regresión | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
-| **Sem 9**  | Aplicaciones | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_9/Practicum_7.ipynb)
-| **Sem 10** | Aplicaciones | 
-| **Sem 11** | Aplicaciones | 
-|        | Neural Nets |  -->
+| **Sem 11**  | Fusion de datos | [Slides](https://docs.google.com/presentation/d/16eZr1bRMVqMqUYch0nW7MZtBYXtIrj5W/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Data_fusion.ipynb)
 
 
 
