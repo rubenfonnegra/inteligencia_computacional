@@ -13,6 +13,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |---|---|---|
 | **Sem 1**  | Introducción | [Acuerdo](https://docs.google.com/spreadsheets/d/1UTLIdm1r4sKRy5x8larDZFBJaP_4qfNM/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true)
 | **Sem 2**  | Paradigmas de aprendizaje | [Slides](https://docs.google.com/presentation/d/1B4wBGexKpvu-p86_NcTSuF2H3iwDRd9sfpbdgkO8Ge8/edit?usp=sharing), [Practicum 1](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_2/Practicum_1.ipynb) 
+<!-- 
 | **Sem 3**  | Aprendizaje supervisado | [Slides](https://docs.google.com/presentation/d/1LXk-NZukENNsZK6zCxl61igACg7jgTttROvBJpxvzB0/edit?usp=sharing)
 |            | Log Regression, Naive bayes | [Practicum 2](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Logistic_Regression.ipynb), [Practicum 3](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Naive_Bayes.ipynb)
 | **Sem 4**  | Entrega 1
@@ -24,7 +25,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 8**  | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1g5_LB-SSEy4jqcGG3-uOE4f-SzI-9X5b7frZT0V8slw/edit?usp=sharing), [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Unsupervised_Lab.ipynb)
 | **Sem 9**  | Redes neuronales | [Slides](https://docs.google.com/presentation/d/1LnbOHXxPtPGU4QXjHUFagGSCopTtx4XY/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/MLP_keras.ipynb)
 | **Sem 10**  | ConvNets, RecNets | [Practicum 13](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/Conv_keras.ipynb), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/LSTM_keras.ipynb)
-| **Sem 11**  | Fusion de datos | [Slides](https://docs.google.com/presentation/d/16eZr1bRMVqMqUYch0nW7MZtBYXtIrj5W/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Data_fusion.ipynb)
+| **Sem 11**  | Fusion de datos | [Slides](https://docs.google.com/presentation/d/16eZr1bRMVqMqUYch0nW7MZtBYXtIrj5W/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Data_fusion.ipynb) -->
 
 
 
