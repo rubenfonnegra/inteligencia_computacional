@@ -18,14 +18,19 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 4**  | Entrega 1
 | **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1aaf9SbTQa_xVQDMEI1eH_CZeWL7iAMmm5_A-wHvqGG4/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb) 
 |            | | [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
-<!-- | **Sem 6**  | Log Reg, Bayesian ridge | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
+| **Sem 6**  | XGBoost, Regresión linear | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb)
+|            | SVR | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
+
+
+<!--
+| **Sem 6**  | Log Reg, Bayesian ridge | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
 |            | SVR, Evaluation | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Bayesian_Ridge.ipynb),  [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
 | **Sem 7**  | Validación | [Slides](https://docs.google.com/presentation/d/1jkVlrZ0EUNF3AkmeLH8uV7Sn0ApKa5T2Nkn85MVqXyw/edit?usp=sharing), [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Sup_Validation_Metrics.ipynb)
 | **Sem 8**  | Aprendizaje no supervisado | [Slides](https://docs.google.com/presentation/d/1g5_LB-SSEy4jqcGG3-uOE4f-SzI-9X5b7frZT0V8slw/edit?usp=sharing), [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Unsupervised_Lab.ipynb)
 | **Sem 9**  | Redes neuronales | [Slides](https://docs.google.com/presentation/d/1LnbOHXxPtPGU4QXjHUFagGSCopTtx4XY/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/MLP_keras.ipynb)
 | **Sem 10**  | ConvNets, RecNets | [Practicum 13](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/Conv_keras.ipynb), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/LSTM_keras.ipynb)
-| **Sem 11**  | Fusion de datos | [Slides](https://docs.google.com/presentation/d/16eZr1bRMVqMqUYch0nW7MZtBYXtIrj5W/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Data_fusion.ipynb) -->
-
+| **Sem 11**  | Fusion de datos | [Slides](https://docs.google.com/presentation/d/16eZr1bRMVqMqUYch0nW7MZtBYXtIrj5W/edit?usp=sharing&ouid=107921194674515097266&rtpof=true&sd=true), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Data_fusion.ipynb)   
+-->
 
 
 ### 🗣️ Contacto: Ruben D. Fonnegra
