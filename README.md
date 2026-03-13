@@ -19,7 +19,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1aaf9SbTQa_xVQDMEI1eH_CZeWL7iAMmm5_A-wHvqGG4/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb) 
 |            | | [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
 | **Sem 6**  | XGBoost, Regresión linear | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb)
-|            | SVR | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
+|            | SVR | [Slides](https://docs.google.com/presentation/d/1xvbZj-IKhaU23O4HYmyF5HS0aRQ7m8JFyypoHLUodEw/edit?usp=sharing), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
 
 
 <!--
