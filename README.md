@@ -16,10 +16,10 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 3**  | Aprendizaje supervisado | [Slides](https://docs.google.com/presentation/d/1LXk-NZukENNsZK6zCxl61igACg7jgTttROvBJpxvzB0/edit?usp=sharing)
 |            | Log Regression, Decision Trees | [Practicum 2](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Logistic_Regression.ipynb), [Practicum 3](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_3/Desicion_tree.ipynb)
 | **Sem 4**  | Entrega 1
-| **Sem 5**  | $k$-NN, SVM | [Slides](https://docs.google.com/presentation/d/1aaf9SbTQa_xVQDMEI1eH_CZeWL7iAMmm5_A-wHvqGG4/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb) 
-|            | | [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
-| **Sem 6**  | XGBoost, Regresión linear | [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb), [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb)
-|            | SVR | [Slides](https://docs.google.com/presentation/d/1xvbZj-IKhaU23O4HYmyF5HS0aRQ7m8JFyypoHLUodEw/edit?usp=sharing), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
+| **Sem 5**  | $k$-NN | [Slides](https://docs.google.com/presentation/d/1aaf9SbTQa_xVQDMEI1eH_CZeWL7iAMmm5_A-wHvqGG4/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb) 
+| **Sem 6**  | SVM | [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
+| **Sem 7**  | XGBoost, Regresión linear | [Slides](https://docs.google.com/presentation/d/1xvbZj-IKhaU23O4HYmyF5HS0aRQ7m8JFyypoHLUodEw/edit?usp=sharing), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
+|            | SVR, Esquemas Validación | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/SVR.ipynb)
 
 
 <!--
