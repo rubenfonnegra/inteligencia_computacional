@@ -19,8 +19,9 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | **Sem 5**  | $k$-NN | [Slides](https://docs.google.com/presentation/d/1aaf9SbTQa_xVQDMEI1eH_CZeWL7iAMmm5_A-wHvqGG4/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/kNN.ipynb) 
 | **Sem 6**  | SVM | [Practicum 5](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_5/SVM.ipynb)
 | **Sem 7**  | XGBoost, Regresión linear | [Slides](https://docs.google.com/presentation/d/1lR7yRtjcFtmQJxy7KUXSi5U8pczlN1KESve_mpl4VVA/edit?usp=sharing), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/XGBoost.ipynb)
-|            | SVR, Esquemas Validación | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/SVR.ipynb), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Supervised_Metrics.ipynb)
-
+|            | SVR, Esquemas Validación | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/SVR.ipynb)
+| **Sem 8**  | Esquemas Validación | [Slides](https://docs.google.com/presentation/d/1-10xPU0zJcKvO8vo2SBhZpkXTpS20fPvNfOmp1Ew_VM/edit?usp=sharing), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Supervised_Metrics.ipynb)
+|            | Esquemas Validación | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Supervised_Lab.ipynb)
 
 <!--
 | **Sem 6**  | Log Reg, Bayesian ridge | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
