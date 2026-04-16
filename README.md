@@ -22,7 +22,12 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |            | SVR, Esquemas Validación | [Practicum 7](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/Linear_Reg.ipynb), [Practicum 8](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_7/SVR.ipynb)
 | **Sem 8**  | Esquemas Validación | [Slides](https://docs.google.com/presentation/d/1-10xPU0zJcKvO8vo2SBhZpkXTpS20fPvNfOmp1Ew_VM/edit?usp=sharing), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_8/Supervised_Metrics.ipynb)
 |  **Sem 9** | Supervised Lab | [Practicum 10](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/Supervised_Lab.ipynb)
-|            | Neural networks | [Slides](https://docs.google.com/presentation/d/1BoiXI3jHDge7SFWFzxaHLpLOCx0G-Btd3I6nrsD14og/edit?usp=sharing) [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/gradient_descent.ipynb)
+|            | Gradient descent | [Slides](https://docs.google.com/presentation/d/1BoiXI3jHDge7SFWFzxaHLpLOCx0G-Btd3I6nrsD14og/edit?usp=sharing), [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/gradient_descent.ipynb)
+|  **Sem 10** | Neural networks | [Slides](https://docs.google.com/presentation/d/142LueTysy7WDr0yLut-499qAWc2MW7rRMfQz_O2i0FQ/edit?usp=sharing), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/MLP_keras.ipynb)
+|             | Conv Nets | [Practicum 13](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/Conv_keras.ipynb)
+
+
+
 
 <!--
 | **Sem 6**  | Log Reg, Bayesian ridge | [Slides](https://docs.google.com/presentation/d/1hwhH1EByFCFW-1yyAVRlO-uXt5ktAw-acEpz5K169R8/edit?usp=sharing), [Practicum 9](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/Classification_Metrics.ipynb), [Practicum 6](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_6/XGBoost.ipynb)
