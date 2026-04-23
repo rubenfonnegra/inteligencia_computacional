@@ -25,7 +25,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |            | Gradient descent | [Slides](https://docs.google.com/presentation/d/1BoiXI3jHDge7SFWFzxaHLpLOCx0G-Btd3I6nrsD14og/edit?usp=sharing), [Practicum 11](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_9/gradient_descent.ipynb)
 |  **Sem 10** | Neural networks | [Slides](https://docs.google.com/presentation/d/142LueTysy7WDr0yLut-499qAWc2MW7rRMfQz_O2i0FQ/edit?usp=sharing), [Practicum 12](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/MLP_keras.ipynb)
 |             | Conv Nets | [Practicum 13](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_10/Conv_keras.ipynb)
-
+|  **Sem 11** | Autoregressive models | [Slides](https://docs.google.com/presentation/d/1rbWc4Xi0nWWQwdv4yY66tZv2IjRtRJya2FJSOMirBH4/edit?usp=sharing), [Practicum 14](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/LSTM_keras.ipynb)
+|             | LSTM, Transformers | [Practicum 15](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Transformer_keras.ipynb), [Practicum 16](https://github.com/rubenfonnegra/inteligencia_computacional/blob/master/Sem_11/Transformer_keras_IMDB.ipynb)
 
 
 
